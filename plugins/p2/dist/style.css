@@ -1,0 +1,48 @@
+.nav-link{
+  color:#fff;
+  font-size: 20px;
+}
+#sobre{
+  background-color:#;
+  height:700px;
+}
+#portifolio{
+  background-color:#;
+  height:700px;
+}
+.container{
+  background-color: #e3f2fd;  
+}
+.hr{
+  border-color:#888;
+  margin: 10px 0 70px 0 ;
+  width:500px;
+}
+.hr2{
+  border-color:#888;
+  width:500px;
+}
+.hr3{
+  width:500px;
+}
+p{
+  margin: 20px;
+}
+#menuContatos{
+  padding: 0;
+  margin:10px; 0 0 0;
+}
+#menuContatos li{
+  display:inline-block;
+}
+.row.flush-col > [class*="col-"] {padding:0;}
+
+.img-fluid {width:50%;}
+.jumbotron{
+  background-color:#337ab7;
+  height: 200px;
+  color:#fff;
+}
+#boxBody{
+  margin: 100px 0 0 0;
+}
